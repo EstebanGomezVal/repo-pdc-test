@@ -1,2 +1,2 @@
 # repo-pdc-test
-Operacion más comunes de Github
+Operaciones más comunes de Github
